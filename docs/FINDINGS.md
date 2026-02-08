@@ -107,21 +107,21 @@ By implementing income-based segmentation, gender-inclusive premium marketing, a
 ### 3.1 Income Analysis
 
 **Overall Statistics:**
-- Mean Income: $[X]
-- Median Income: $[X]
-- Income Range: $[X] - $[X]
+- Mean Income: 53719.58
+- Median Income: 53719.58
+- Income Range: 29562.00 - 104581.00
 
 **By Product:**
 | Product | Mean Income | Median Income | Std Dev |
 |---------|-------------|---------------|---------|
-| KP281   | $[X]        | $[X]          | $[X]    |
-| KP481   | $[X]        | $[X]          | $[X]    |
-| KP781   | $[X]        | $[X]          | $[X]    |
+| KP281   | 46418.03    | 46617.00      | 9075.78   |
+| KP481   | 48973.65    | 49459.50      | 8653.99   |
+| KP781   | 75441.57    | 76568.50      | 18505.84  |
 
 **Income Distribution by Product:**
-- KP281: Primarily [$X - $X] income range
-- KP481: Primarily [$X - $X] income range
-- KP781: Primarily [$X - $X] income range
+- KP281: Primarily [29562.00 - 104581.00] income range
+- KP481: Primarily [29562.00 - 104581.00] income range
+- KP781: Primarily [29562.00 - 104581.00] income range
 
 **Key Insights:**
 - [Clear income segmentation patterns]

@@ -1,4 +1,4 @@
-# Aerofit Customer Analysis - Python Dependencies
+# Customer Analysis - Python Dependencies
 
 # Core Data Libraries
 pandas>=1.5.0
