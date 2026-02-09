@@ -131,16 +131,16 @@ By implementing income-based segmentation, gender-inclusive premium marketing, a
 ### 3.2 Education Level
 
 **Overall Statistics:**
-- Mean Education: [X] years
-- Median Education: [X] years
-- Range: [X] - [X] years
+- Mean Education: 15.57 years
+- Median Education: 16.00 years
+- Range: 12.00 - 21.00 years
 
 **By Product:**
 | Product | Mean Education | Median Education |
 |---------|----------------|------------------|
-| KP281   | [X]            | [X]              |
-| KP481   | [X]            | [X]              |
-| KP781   | [X]            | [X]              |
+| KP281   | 15.04          | 16.00             |
+| KP481   | 15.12          | 16.00.            |
+| KP781   | 17.32          | 18.00             |
 
 **Key Insights:**
 - [Education level patterns]
@@ -153,15 +153,15 @@ By implementing income-based segmentation, gender-inclusive premium marketing, a
 ### 4.1 Usage Frequency
 
 **Overall Statistics:**
-- Mean Usage: [X] times/week
-- Median Usage: [X] times/week
+- Mean Usage: 3.46 times/week
+- Median Usage: 3.00 times/week
 
 **By Product:**
 | Product | Mean Usage | Median Usage | Range      |
 |---------|------------|--------------|------------|
-| KP281   | [X]        | [X]          | [X] - [X]  |
-| KP481   | [X]        | [X]          | [X] - [X]  |
-| KP781   | [X]        | [X]          | [X] - [X]  |
+| KP281   | 3.09       | 3.00         | 2.00 - 5.00|
+| KP481   | 3.07       | 3.00         | 2.00 - 5.00|
+| KP781   | 4.78       | 5.00         | 3.00 - 7.00|
 
 **Key Insights:**
 - [Usage patterns by product]
@@ -170,15 +170,15 @@ By implementing income-based segmentation, gender-inclusive premium marketing, a
 ### 4.2 Distance Expectations (Miles)
 
 **Overall Statistics:**
-- Mean Miles: [X] miles/week
-- Median Miles: [X] miles/week
+- Mean Miles: 103.19 miles/week
+- Median Miles: 94.00 miles/week
 
 **By Product:**
-| Product | Mean Miles | Median Miles | Range      |
-|---------|------------|--------------|------------|
-| KP281   | [X]        | [X]          | [X] - [X]  |
-| KP481   | [X]        | [X]          | [X] - [X]  |
-| KP781   | [X]        | [X]          | [X] - [X]  |
+| Product | Mean Miles  | Median Miles | Range           |
+|---------|-------------|--------------|-----------------|
+| KP281   | 82.79       | 85.00        | 38.00 - 188.00  |
+| KP481   | 87.93       | 85.00        | 21.00 - 212.00  |
+| KP781   | 166.90      | 160.00       | 80.00 - 360.00  |
 
 **Key Insights:**
 - [Distance expectations by product tier]
@@ -189,19 +189,19 @@ By implementing income-based segmentation, gender-inclusive premium marketing, a
 **Overall Distribution:**
 | Fitness Level | Count | Percentage |
 |---------------|-------|------------|
-| 1 (Poor)      | [X]   | [X%]       |
-| 2 (Below Avg) | [X]   | [X%]       |
-| 3 (Average)   | [X]   | [X%]       |
-| 4 (Good)      | [X]   | [X%]       |
-| 5 (Excellent) | [X]   | [X%]       |
+| 1 (Poor)      | 2     | 0.01       |
+| 2 (Below Avg) | 26    | 0.14      |
+| 3 (Average)   | 97    | 0.54      |
+| 4 (Good)      | 24    | 0.13     |
+| 5 (Excellent) | 31    | 0.17       |
 
 **By Product:**
 | Product | Mean Fitness | Mode | Advanced Users (4-5) % |
 |---------|--------------|------|------------------------|
-| KP281   | [X]          | [X]  | [X%]                   |
-| KP481   | [X]          | [X]  | [X%]                   |
-| KP781   | [X]          | [X]  | [X%]                   |
-
+| KP281   | 2.96         | 3.00 | 0.31                   |
+| KP481   | 2.90         | 3.00 | 0.31                   |
+| KP781   | 4.62         | 5.00 | 0.31                   |
+ 
 **Key Insights:**
 - [Fitness level as a strong predictor]
 - [Self-assessment patterns]
